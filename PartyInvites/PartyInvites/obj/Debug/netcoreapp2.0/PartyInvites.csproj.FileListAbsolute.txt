@@ -9,3 +9,5 @@ C:\Users\Fran\Source\Repos\netCoreBook\PartyInvites\PartyInvites\obj\Debug\netco
 C:\Users\Fran\Source\Repos\netCoreBook\PartyInvites\PartyInvites\obj\Debug\netcoreapp2.0\PartyInvites.AssemblyInfo.cs
 C:\Users\Fran\Source\Repos\netCoreBook\PartyInvites\PartyInvites\obj\Debug\netcoreapp2.0\PartyInvites.dll
 C:\Users\Fran\Source\Repos\netCoreBook\PartyInvites\PartyInvites\obj\Debug\netcoreapp2.0\PartyInvites.pdb
+C:\Users\Fran\Desktop\netCoreBook\PartyInvites\PartyInvites\obj\Debug\netcoreapp2.0\PartyInvites.dll
+C:\Users\Fran\Desktop\netCoreBook\PartyInvites\PartyInvites\obj\Debug\netcoreapp2.0\PartyInvites.pdb
