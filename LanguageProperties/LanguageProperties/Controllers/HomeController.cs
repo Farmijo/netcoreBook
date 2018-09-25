@@ -3,11 +3,10 @@ using Microsoft.AspNetCore.Mvc;
 using System.Collections.Generic;
 using LanguageProperties.Models;
 using System.Linq;
+using System.Threading.Tasks;
 
-/// <summary>
-/// Summary description for Class1
-/// </summary>
-/// 
+
+
 namespace LanguageProperties.Controllers
 {
 
@@ -114,7 +113,8 @@ namespace LanguageProperties.Controllers
 
         // Using the extension method on an Interface.
 
-        public ViewResult Index()
+        /// Type inference 
+       /* public ViewResult Index()
         {
             var products = new[] {
                                     new { Name = "Kayak", Price = 275M },
@@ -124,7 +124,14 @@ namespace LanguageProperties.Controllers
                                  };
             return View(products.Select(p => p.GetType().Name));
         }
+*/
 
+        public async Task<ViewResult> Index(){
+
+            long? length = await MyAsyncMethods.GetPageLength();
+            return View(new string[] { $"Length: {length}" });
+
+        }
 
 
     }

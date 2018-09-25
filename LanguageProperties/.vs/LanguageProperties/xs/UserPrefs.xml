@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{F2588D87-D3C6-4C8E-BB1C-05AFB6062B0B}|Default">
+  <MonoDevelop.Ide.ItemProperties.LanguageProperties PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="LanguageProperties/Controllers/HomeController.cs">
+    <Files>
+      <File FileName="LanguageProperties/Controllers/HomeController.cs" Line="131" Column="49" />
+      <File FileName="LanguageProperties/Models/MyAsyncMethods.cs" Line="20" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
