@@ -11506,11 +11506,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/farmijo/Desktop/netTutorial/netcoreBook/WorkingWithRazon/WorkingWithRazon/WorkingWithRazon.csproj",
-      "projectName": "WorkingWithRazon",
-      "projectPath": "/Users/farmijo/Desktop/netTutorial/netcoreBook/WorkingWithRazon/WorkingWithRazon/WorkingWithRazon.csproj",
+      "projectUniqueName": "/Users/farmijo/Desktop/netTutorial/netcoreBook/WorkingWithRazor/WorkingWithRazor/WorkingWithRazor.csproj",
+      "projectName": "WorkingWithRazor",
+      "projectPath": "/Users/farmijo/Desktop/netTutorial/netcoreBook/WorkingWithRazor/WorkingWithRazor/WorkingWithRazor.csproj",
       "packagesPath": "/Users/farmijo/.nuget/packages/",
-      "outputPath": "/Users/farmijo/Desktop/netTutorial/netcoreBook/WorkingWithRazon/WorkingWithRazon/obj",
+      "outputPath": "/Users/farmijo/Desktop/netTutorial/netcoreBook/WorkingWithRazor/WorkingWithRazor/obj",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

@@ -1,0 +1,14 @@
+/Users/farmijo/Desktop/netTutorial/netcoreBook/WorkingWithRazor/WorkingWithRazor/bin/Debug/netcoreapp2.1/WorkingWithRazor.deps.json
+/Users/farmijo/Desktop/netTutorial/netcoreBook/WorkingWithRazor/WorkingWithRazor/bin/Debug/netcoreapp2.1/WorkingWithRazor.runtimeconfig.json
+/Users/farmijo/Desktop/netTutorial/netcoreBook/WorkingWithRazor/WorkingWithRazor/bin/Debug/netcoreapp2.1/WorkingWithRazor.runtimeconfig.dev.json
+/Users/farmijo/Desktop/netTutorial/netcoreBook/WorkingWithRazor/WorkingWithRazor/bin/Debug/netcoreapp2.1/WorkingWithRazor.dll
+/Users/farmijo/Desktop/netTutorial/netcoreBook/WorkingWithRazor/WorkingWithRazor/bin/Debug/netcoreapp2.1/WorkingWithRazor.pdb
+/Users/farmijo/Desktop/netTutorial/netcoreBook/WorkingWithRazor/WorkingWithRazor/obj/Debug/netcoreapp2.1/WorkingWithRazor.csprojAssemblyReference.cache
+/Users/farmijo/Desktop/netTutorial/netcoreBook/WorkingWithRazor/WorkingWithRazor/obj/Debug/netcoreapp2.1/WorkingWithRazor.csproj.CoreCompileInputs.cache
+/Users/farmijo/Desktop/netTutorial/netcoreBook/WorkingWithRazor/WorkingWithRazor/obj/Debug/netcoreapp2.1/WorkingWithRazor.RazorAssemblyInfo.cache
+/Users/farmijo/Desktop/netTutorial/netcoreBook/WorkingWithRazor/WorkingWithRazor/obj/Debug/netcoreapp2.1/WorkingWithRazor.RazorAssemblyInfo.cs
+/Users/farmijo/Desktop/netTutorial/netcoreBook/WorkingWithRazor/WorkingWithRazor/obj/Debug/netcoreapp2.1/WorkingWithRazor.AssemblyInfoInputs.cache
+/Users/farmijo/Desktop/netTutorial/netcoreBook/WorkingWithRazor/WorkingWithRazor/obj/Debug/netcoreapp2.1/WorkingWithRazor.AssemblyInfo.cs
+/Users/farmijo/Desktop/netTutorial/netcoreBook/WorkingWithRazor/WorkingWithRazor/obj/Debug/netcoreapp2.1/WorkingWithRazor.RazorTargetAssemblyInfo.cache
+/Users/farmijo/Desktop/netTutorial/netcoreBook/WorkingWithRazor/WorkingWithRazor/obj/Debug/netcoreapp2.1/WorkingWithRazor.dll
+/Users/farmijo/Desktop/netTutorial/netcoreBook/WorkingWithRazor/WorkingWithRazor/obj/Debug/netcoreapp2.1/WorkingWithRazor.pdb
