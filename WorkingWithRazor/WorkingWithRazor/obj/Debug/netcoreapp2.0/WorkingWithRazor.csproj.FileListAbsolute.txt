@@ -1,0 +1,11 @@
+C:\Users\Fran\Desktop\repos\netcoreBook\WorkingWithRazor\WorkingWithRazor\bin\Debug\netcoreapp2.0\WorkingWithRazor.deps.json
+C:\Users\Fran\Desktop\repos\netcoreBook\WorkingWithRazor\WorkingWithRazor\bin\Debug\netcoreapp2.0\WorkingWithRazor.runtimeconfig.json
+C:\Users\Fran\Desktop\repos\netcoreBook\WorkingWithRazor\WorkingWithRazor\bin\Debug\netcoreapp2.0\WorkingWithRazor.runtimeconfig.dev.json
+C:\Users\Fran\Desktop\repos\netcoreBook\WorkingWithRazor\WorkingWithRazor\bin\Debug\netcoreapp2.0\WorkingWithRazor.dll
+C:\Users\Fran\Desktop\repos\netcoreBook\WorkingWithRazor\WorkingWithRazor\obj\Debug\netcoreapp2.0\WorkingWithRazor.csprojAssemblyReference.cache
+C:\Users\Fran\Desktop\repos\netcoreBook\WorkingWithRazor\WorkingWithRazor\obj\Debug\netcoreapp2.0\WorkingWithRazor.csproj.CoreCompileInputs.cache
+C:\Users\Fran\Desktop\repos\netcoreBook\WorkingWithRazor\WorkingWithRazor\obj\Debug\netcoreapp2.0\WorkingWithRazor.AssemblyInfoInputs.cache
+C:\Users\Fran\Desktop\repos\netcoreBook\WorkingWithRazor\WorkingWithRazor\obj\Debug\netcoreapp2.0\WorkingWithRazor.AssemblyInfo.cs
+C:\Users\Fran\Desktop\repos\netcoreBook\WorkingWithRazor\WorkingWithRazor\bin\Debug\netcoreapp2.0\WorkingWithRazor.pdb
+C:\Users\Fran\Desktop\repos\netcoreBook\WorkingWithRazor\WorkingWithRazor\obj\Debug\netcoreapp2.0\WorkingWithRazor.dll
+C:\Users\Fran\Desktop\repos\netcoreBook\WorkingWithRazor\WorkingWithRazor\obj\Debug\netcoreapp2.0\WorkingWithRazor.pdb
