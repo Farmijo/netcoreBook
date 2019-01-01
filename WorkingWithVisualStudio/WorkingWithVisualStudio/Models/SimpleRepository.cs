@@ -5,9 +5,9 @@ using System.Threading.Tasks;
 
 namespace WorkingWithVisualStudio.Models
 {
-    public class SimpleRepository
+    public class SimpleRepository : IRepository
     {
-        private static SimpleRepository sharedRepository = new SimpleRepository();
+        private static readonly SimpleRepository sharedRepository = new SimpleRepository();
         private Dictionary<string, Product> products
         = new Dictionary<string, Product>();
         public static SimpleRepository SharedRepository => sharedRepository;
@@ -19,6 +19,7 @@ namespace WorkingWithVisualStudio.Models
                 new Product { Name = "Soccer ball", Price = 19.50M },
                 new Product { Name = "Corner flag", Price = 34.95M }
             };
+           
 
             foreach (var p in initialItems)
             {
@@ -26,7 +27,8 @@ namespace WorkingWithVisualStudio.Models
 
 
             }
-            products.Add("Error", null);
+
+            
         }
 
         public IEnumerable<Product> Products => products.Values;
