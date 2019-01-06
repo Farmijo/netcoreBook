@@ -6,7 +6,7 @@
     <IsPackable>false</IsPackable>
   </PropertyGroup>
   <ItemGroup>
-    <ProjectReference Include="..\SportsStore\SportsStore.csproj" />
+    <ProjectReference Include="..\WebApplication2\SportsStore.csproj" />
   </ItemGroup>
   
   <ItemGroup>
