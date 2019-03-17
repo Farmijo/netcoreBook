@@ -1,0 +1,11 @@
+/Users/farmijo/Desktop/netTutorial/netcoreBook/LanguageProperties/bin/Debug/netcoreapp2.0/LanguageProperties.deps.json
+/Users/farmijo/Desktop/netTutorial/netcoreBook/LanguageProperties/bin/Debug/netcoreapp2.0/LanguageProperties.runtimeconfig.json
+/Users/farmijo/Desktop/netTutorial/netcoreBook/LanguageProperties/bin/Debug/netcoreapp2.0/LanguageProperties.runtimeconfig.dev.json
+/Users/farmijo/Desktop/netTutorial/netcoreBook/LanguageProperties/bin/Debug/netcoreapp2.0/LanguageProperties.dll
+/Users/farmijo/Desktop/netTutorial/netcoreBook/LanguageProperties/bin/Debug/netcoreapp2.0/LanguageProperties.pdb
+/Users/farmijo/Desktop/netTutorial/netcoreBook/LanguageProperties/obj/Debug/netcoreapp2.0/LanguageProperties.csproj.CoreCompileInputs.cache
+/Users/farmijo/Desktop/netTutorial/netcoreBook/LanguageProperties/obj/Debug/netcoreapp2.0/LanguageProperties.AssemblyInfoInputs.cache
+/Users/farmijo/Desktop/netTutorial/netcoreBook/LanguageProperties/obj/Debug/netcoreapp2.0/LanguageProperties.AssemblyInfo.cs
+/Users/farmijo/Desktop/netTutorial/netcoreBook/LanguageProperties/obj/Debug/netcoreapp2.0/LanguageProperties.dll
+/Users/farmijo/Desktop/netTutorial/netcoreBook/LanguageProperties/obj/Debug/netcoreapp2.0/LanguageProperties.pdb
+/Users/farmijo/Desktop/netTutorial/netcoreBook/LanguageProperties/obj/Debug/netcoreapp2.0/LanguageProperties.csprojAssemblyReference.cache

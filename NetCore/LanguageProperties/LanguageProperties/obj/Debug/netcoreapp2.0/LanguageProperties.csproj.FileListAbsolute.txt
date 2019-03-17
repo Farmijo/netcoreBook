@@ -1,0 +1,11 @@
+C:\Users\Fran\Desktop\netCoreBook\LanguageProperties\LanguageProperties\bin\Debug\netcoreapp2.0\LanguageProperties.deps.json
+C:\Users\Fran\Desktop\netCoreBook\LanguageProperties\LanguageProperties\bin\Debug\netcoreapp2.0\LanguageProperties.runtimeconfig.json
+C:\Users\Fran\Desktop\netCoreBook\LanguageProperties\LanguageProperties\bin\Debug\netcoreapp2.0\LanguageProperties.runtimeconfig.dev.json
+C:\Users\Fran\Desktop\netCoreBook\LanguageProperties\LanguageProperties\bin\Debug\netcoreapp2.0\LanguageProperties.dll
+C:\Users\Fran\Desktop\netCoreBook\LanguageProperties\LanguageProperties\bin\Debug\netcoreapp2.0\LanguageProperties.pdb
+C:\Users\Fran\Desktop\netCoreBook\LanguageProperties\LanguageProperties\obj\Debug\netcoreapp2.0\LanguageProperties.csprojAssemblyReference.cache
+C:\Users\Fran\Desktop\netCoreBook\LanguageProperties\LanguageProperties\obj\Debug\netcoreapp2.0\LanguageProperties.csproj.CoreCompileInputs.cache
+C:\Users\Fran\Desktop\netCoreBook\LanguageProperties\LanguageProperties\obj\Debug\netcoreapp2.0\LanguageProperties.AssemblyInfoInputs.cache
+C:\Users\Fran\Desktop\netCoreBook\LanguageProperties\LanguageProperties\obj\Debug\netcoreapp2.0\LanguageProperties.AssemblyInfo.cs
+C:\Users\Fran\Desktop\netCoreBook\LanguageProperties\LanguageProperties\obj\Debug\netcoreapp2.0\LanguageProperties.dll
+C:\Users\Fran\Desktop\netCoreBook\LanguageProperties\LanguageProperties\obj\Debug\netcoreapp2.0\LanguageProperties.pdb
