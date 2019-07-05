@@ -1,0 +1,17 @@
+C:\Users\Fran\Desktop\repos\netcoreBook\WorkingWithVisualStudio\XUnitTestProject1\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Fran\Desktop\repos\netcoreBook\WorkingWithVisualStudio\XUnitTestProject1\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Fran\Desktop\repos\netcoreBook\WorkingWithVisualStudio\XUnitTestProject1\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Fran\Desktop\repos\netcoreBook\WorkingWithVisualStudio\XUnitTestProject1\bin\Debug\netcoreapp2.0\WorkingWithVisualStudio.Tests.deps.json
+C:\Users\Fran\Desktop\repos\netcoreBook\WorkingWithVisualStudio\XUnitTestProject1\bin\Debug\netcoreapp2.0\WorkingWithVisualStudio.Tests.runtimeconfig.json
+C:\Users\Fran\Desktop\repos\netcoreBook\WorkingWithVisualStudio\XUnitTestProject1\bin\Debug\netcoreapp2.0\WorkingWithVisualStudio.Tests.runtimeconfig.dev.json
+C:\Users\Fran\Desktop\repos\netcoreBook\WorkingWithVisualStudio\XUnitTestProject1\bin\Debug\netcoreapp2.0\WorkingWithVisualStudio.Tests.dll
+C:\Users\Fran\Desktop\repos\netcoreBook\WorkingWithVisualStudio\XUnitTestProject1\bin\Debug\netcoreapp2.0\WorkingWithVisualStudio.Tests.pdb
+C:\Users\Fran\Desktop\repos\netcoreBook\WorkingWithVisualStudio\XUnitTestProject1\bin\Debug\netcoreapp2.0\WorkingWithVisualStudio.dll
+C:\Users\Fran\Desktop\repos\netcoreBook\WorkingWithVisualStudio\XUnitTestProject1\bin\Debug\netcoreapp2.0\WorkingWithVisualStudio.pdb
+C:\Users\Fran\Desktop\repos\netcoreBook\WorkingWithVisualStudio\XUnitTestProject1\obj\Debug\netcoreapp2.0\WorkingWithVisualStudio.Tests.csprojAssemblyReference.cache
+C:\Users\Fran\Desktop\repos\netcoreBook\WorkingWithVisualStudio\XUnitTestProject1\obj\Debug\netcoreapp2.0\WorkingWithVisualStudio.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Fran\Desktop\repos\netcoreBook\WorkingWithVisualStudio\XUnitTestProject1\obj\Debug\netcoreapp2.0\WorkingWithVisualStudio.Tests.AssemblyInfoInputs.cache
+C:\Users\Fran\Desktop\repos\netcoreBook\WorkingWithVisualStudio\XUnitTestProject1\obj\Debug\netcoreapp2.0\WorkingWithVisualStudio.Tests.AssemblyInfo.cs
+C:\Users\Fran\Desktop\repos\netcoreBook\WorkingWithVisualStudio\XUnitTestProject1\obj\Debug\netcoreapp2.0\WorkingWithVisualStudio.Tests.csproj.CopyComplete
+C:\Users\Fran\Desktop\repos\netcoreBook\WorkingWithVisualStudio\XUnitTestProject1\obj\Debug\netcoreapp2.0\WorkingWithVisualStudio.Tests.dll
+C:\Users\Fran\Desktop\repos\netcoreBook\WorkingWithVisualStudio\XUnitTestProject1\obj\Debug\netcoreapp2.0\WorkingWithVisualStudio.Tests.pdb

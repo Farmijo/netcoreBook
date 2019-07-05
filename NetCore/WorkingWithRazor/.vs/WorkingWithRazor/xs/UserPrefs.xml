@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{0199CD3A-947E-4897-8E2F-12B8CE1690CB}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="WorkingWithRazor/Controllers/HomeController.cs">
+    <Files>
+      <File FileName="WorkingWithRazor/Startup.cs" Line="18" Column="31" />
+      <File FileName="WorkingWithRazor/Models/Product.cs" Line="10" Column="45" />
+      <File FileName="WorkingWithRazor/Controllers/HomeController.cs" Line="15" Column="10" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.WorkingWithRazor PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
