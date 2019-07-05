@@ -1,0 +1,11 @@
+/Users/farmijo/Desktop/repos/netcoreBook/cSharpBook/Test/bin/Debug/netcoreapp2.1/Test.deps.json
+/Users/farmijo/Desktop/repos/netcoreBook/cSharpBook/Test/bin/Debug/netcoreapp2.1/Test.runtimeconfig.json
+/Users/farmijo/Desktop/repos/netcoreBook/cSharpBook/Test/bin/Debug/netcoreapp2.1/Test.runtimeconfig.dev.json
+/Users/farmijo/Desktop/repos/netcoreBook/cSharpBook/Test/bin/Debug/netcoreapp2.1/Test.dll
+/Users/farmijo/Desktop/repos/netcoreBook/cSharpBook/Test/bin/Debug/netcoreapp2.1/Test.pdb
+/Users/farmijo/Desktop/repos/netcoreBook/cSharpBook/Test/obj/Debug/netcoreapp2.1/Test.csprojAssemblyReference.cache
+/Users/farmijo/Desktop/repos/netcoreBook/cSharpBook/Test/obj/Debug/netcoreapp2.1/Test.csproj.CoreCompileInputs.cache
+/Users/farmijo/Desktop/repos/netcoreBook/cSharpBook/Test/obj/Debug/netcoreapp2.1/Test.AssemblyInfoInputs.cache
+/Users/farmijo/Desktop/repos/netcoreBook/cSharpBook/Test/obj/Debug/netcoreapp2.1/Test.AssemblyInfo.cs
+/Users/farmijo/Desktop/repos/netcoreBook/cSharpBook/Test/obj/Debug/netcoreapp2.1/Test.dll
+/Users/farmijo/Desktop/repos/netcoreBook/cSharpBook/Test/obj/Debug/netcoreapp2.1/Test.pdb
